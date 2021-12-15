@@ -1,4 +1,4 @@
-Here are bed models for adding to your Prusa/Super Slicer Printer Profiles.
+STL and Texture files for adding to SuperSlicer for Voron Printers.
  - HartK
 
 ##### Pictures
