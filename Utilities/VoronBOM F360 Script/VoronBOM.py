@@ -43,7 +43,7 @@ def main():
         logs = ""
         for occ in occs:
             comp = occ.component
-            comp_name = re.sub('v[0-9]*','',comp.name)
+            comp_name = re.sub('v[0-9]+','',comp.name)
             comp_name = re.sub('\([0-9]\)*','',comp_name)
             comp_name = comp_name.replace("(Mirror)","").strip()
             jj = 0
