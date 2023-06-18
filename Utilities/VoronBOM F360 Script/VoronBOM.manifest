@@ -3,7 +3,7 @@
 	"type":	"script",
 	"author":	"Maks Zolin",
 	"description":	{
-		"":	"Modified BOM generator for Fusion360. Strips out vX and (X) when countring components"
+		"":	"Modified BOM generator for Fusion360. Strips out vX and (X) when counting components"
 	},
 	"supportedOS":	"windows|mac",
 	"editEnabled":	true
