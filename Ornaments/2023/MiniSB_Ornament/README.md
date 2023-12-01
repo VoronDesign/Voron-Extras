@@ -1,2 +1,2 @@
-[Overview Image](MiniSB_Ornament.png)
+![Overview Image](MiniSB_Ornament.png)
 
