@@ -1,6 +1,6 @@
 # 12 Days of Voronmas - Day 12
 
-On the eleventh day of Christmas the Voron Team gave to me
+On the twelfth day of Christmas the Voron Team gave to me
 
 12 Flying Phoenixes
 
